@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1530987943 source:c:\users\claudia\documents\c++\database4\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<string>
+	"Estudiante.h"
+	"Profesor.h"
+	"Institucion.h"
+	"Curso.h"
+	<stdlib.h>
+
+1530995143 source:c:\users\claudia\documents\c++\database4\src\estudiante.cpp
+	"Estudiante.h"
+	<iostream>
+
+1530987943 source:c:\users\claudia\documents\c++\database4\src\institucion.cpp
+	"Institucion.h"
+	"Estudiante.h"
+	"Profesor.h"
+	<iostream>
+	<algorithm>
+	<vector>
+	<string>
+
+1530987943 c:\users\claudia\documents\c++\database4\include\institucion.h
+	<conio.h>
+	<iostream>
+	<algorithm>
+	<vector>
+	<string>
+	<fstream>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"Estudiante.h"
+	"Profesor.h"
+	"Curso.h"
+
+1530995087 c:\users\claudia\documents\c++\database4\include\estudiante.h
+	<string>
+	<string.h>
+	<Persona.h>
+	<Curso.h>
+	<vector>
+
+1530495949 c:\users\claudia\documents\c++\database4\include\persona.h
+	<string>
+	<string.h>
+
+1530496630 c:\users\claudia\documents\c++\database4\include\profesor.h
+	<Persona.h>
+
+1530995173 source:c:\users\claudia\documents\c++\database4\src\persona.cpp
+	"Persona.h"
+	<iostream>
+
+1530495412 source:c:\users\claudia\documents\c++\database4\src\profesor.cpp
+	"Profesor.h"
+
+1530987943 c:\users\claudia\documents\c++\database4\include\curso.h
+	<string>
+	<string.h>
+
+1530995100 source:c:\users\claudia\documents\c++\database4\src\curso.cpp
+	"Curso.h"
+
